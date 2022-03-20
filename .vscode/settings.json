@@ -1,0 +1,16 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#048f1d",
+        "statusBar.noFolderBackground":"#048f1d",
+        "statusBar.debuggingBackground":"#048f1d",
+    },
+}
